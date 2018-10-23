@@ -1,2 +1,2 @@
 # login
-Formulario de registro
+Login form. JQuery - Ajax - Eclipse.
